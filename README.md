@@ -1,2 +1,5 @@
-# lab_website
-Code for the website of our lab (not maintained anymore)
+# The Atlas Analytic Lab
+## Concordia University, Montreal, Canada
+
+This website is inspired by [UVA Deep Learning Course website](https://uvadlc.github.io) whose repository is available [here](https://github.com/uvadlc/uvadlc.github.io)
+

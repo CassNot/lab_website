@@ -1,0 +1,24 @@
+<section id="publicationstest" class="portfolio">
+        <div class="container_portfolio">
+            <div class="section-title">
+                <h2>Publications test</h2>
+            </div>
+
+        <div class="row portfolio-container">
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+                <center><h4>Computational Pathology: A Survey Review and The Way Forward</h4></center>
+                <div class="portfolio-wrap">
+                  <img src="publications/assets/copath.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                    
+                    <div class="portfolio-links">
+                      <a href="publications/copath.html" data-gall="portfolioDetailsGallery"  data-vbtype="iframe" class="venobox" title="Project Details"><i class="bx bx-info-circle"></i></a>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+
+        </div>
+    </section>
