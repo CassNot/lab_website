@@ -1,0 +1,48 @@
+[
+	{
+		"type": "lecture",
+		"name": "Introduction to Deep Learning",
+		"date": "November 1, 2022 | 15.00-17.00 | Lecture",
+		"desc": "This lecture introduces the structure of the Deep Learning course, and gives a short overview of the history and motivation of Deep Learning.",
+		"documents": [
+		
+		{"name": "Introduction lecture",
+			 "link": "https://canvas.uva.nl/courses/32260/files/7566802?module_item_id=1471147",
+			 "type": "pdf"}
+			 
+		],
+		"recordings": [
+		{"name": "Introduction lecture",
+			 "link": "https://canvas.uva.nl/courses/32260/files/7567606?module_item_id=1481902",
+			 "type": "video"}
+
+		]
+	},
+
+	{
+		"type": "tutorial",
+		"name": "Introduction to PyTorch",
+		"date": "November 1, 2022 | 17.00-19.00 | Tutorial session + TA Q&A",
+		"desc": "This tutorial introduces the practical sessions, the TA organizer team, etc. Afterwards, we will discuss the PyTorch machine learning framework, and introduce you to the basic concepts of Tensors, computation graphs and GPU computation. We will continue with a small hands-on tutorial of building your own, first neural network in PyTorch.</p>",
+		"documents": [
+			{"name": "Recording - Part 1 (Introduction)",
+			 "link": "https://youtu.be/oluO8JiC7EA",
+			 "type": "video"},
+			{"name": "Recording - Part 2 (PyTorch Basics)",
+			 "link": "https://youtu.be/wnKZZgFQY-E",
+			 "type": "video"},
+			{"name": "Recording - Part 3 (NNs in PyTorch)",
+			 "link": "https://youtu.be/schbjeU5X2g",
+			 "type": "video"},
+			{"name": "Introduction Slides",
+			 "link": "http://uvadlc.github.io/lectures/nov2022/Tutorial_Session_2022_Nov_1.pdf",
+			 "type": "powerpoint"},
+			{"name": "Lisa Tutorial",
+			 "link": "https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial1/Lisa_Cluster.html",
+			 "type": "notebook"},
+			{"name": "PyTorch tutorial notebook",
+			 "link": "https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html",
+			 "type": "notebook"}
+		]
+	}
+]
